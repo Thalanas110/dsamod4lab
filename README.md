@@ -1,1 +1,8 @@
-# dsamod4lab
+IMPORTANT!
+
+I did this all INDIVIDUALLY with 0 pair because I am too lazy to find a pair.
+
+ALL MY OUTPUTS ARE IN C. THE ASSEMBLY LANGUAGE IS USED TO TEST THE CONCEPTS.
+ALL ASSEMBLY OUTPUTS ARE PARTIALLY INCOMPLETE IN CASE. ONLY THE C CODE WORKS.
+
+All my answers are in this repository.
